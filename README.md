@@ -1,9 +1,9 @@
-## 👋 안녕하세요. 소프트웨어 개발자 송은석입니다.
-
+## 👋 안녕하세요. 백엔드 개발자 송은석입니다.
 <br>
 
-<!--### 📜 Blog: [https://velog.io/@tilsong](https://velog.io/@tilsong)
-### 📚 Team Project: [Directors](https://github.com/tilsong/directors)-->
+### 📜 Blog: [https://velog.io/@tilsong](https://velog.io/@tilsong)
+### 📚 Team Project: [Directors](https://github.com/f-lab-edu/directors)
+<br>
 
 ## 🛠 Tech Stack 🛠
 
