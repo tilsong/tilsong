@@ -1,8 +1,25 @@
-## 👋 안녕하세요. 백엔드 개발자 송은석입니다.
+# 👋 안녕하세요. 백엔드 개발자 송은석입니다.
 <br>
 
-### 📜 Blog: [https://velog.io/@tilsong](https://velog.io/@tilsong)
-### 📚 Team Project: [Directors](https://github.com/f-lab-edu/directors)
+
+# 2021. 07 ~ 2022. 10 | Infofla 🖥️
+
+솔루션 회사에서 개발자로 재직했습니다.
+
+<p> <strong>Vue.js, Node.js</strong>를 통해 웹 개발을, </p>
+<p> <strong>Flutter, React Native</strong>를 통해 모바일 개발을, </p>
+<p> <strong>Electron.js</strong>를 통해 데스크탑 프로그램을 개발을 경험했습니다. </p>
+
+<p> 하지만 백엔드 프로그래밍에 대한 갈망이 생겼고, </p>
+퇴사 후 백엔드를 집중적으로 공부했습니다.
+
+# 2022.11 ~ | F-lab Java Backend 과정
+백엔드 공부와 프로젝트를 병행 중에 있습니다.
+
+### 진행 중인 저의 프로젝트를 보고 싶으시다면 ==> [📚 Project: Directors](https://github.com/f-lab-edu/directors)
+
+### 프로젝트 중 경험한 트러블 슈팅을 보고 싶으시다면 ==> [📜 Blog: https://velog.io/@tilsong](https://velog.io/@tilsong)
+
 <br>
 
 ## 🛠 Tech Stack 🛠
