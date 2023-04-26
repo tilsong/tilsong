@@ -7,8 +7,8 @@
 솔루션 회사에서 개발자로 재직했습니다.
 
 <p> <strong>Vue.js, Node.js</strong>를 통해 웹 개발을, </p>
-<p> <strong>Flutter, React Native</strong>를 통해 모바일 개발을, </p>
-<p> <strong>Electron.js</strong>를 통해 데스크탑 프로그램을 개발을 경험했습니다. </p>
+<p> <strong>Flutter, React Native</strong>를 통해 모바일 앱 개발을, </p>
+<p> <strong>Electron.js</strong>를 통해 데스크탑 앱 개발을 경험했습니다. </p>
 
 <p> 하지만 백엔드 프로그래밍에 대한 갈망이 생겼고, </p>
 퇴사 후 백엔드를 집중적으로 공부했습니다.
