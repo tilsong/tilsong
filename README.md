@@ -1,36 +1,15 @@
-# 👋 안녕하세요. 백엔드 엔지니어 송은석입니다.
+### 👋 안녕하세요. 백엔드 엔지니어 송은석입니다.
 <br>
 
-# 2021. 07 ~ 2022. 10 | Infofla 🖥️
+🎯문제를 해결하기 위한 **적절한 방법을 선택**하기 위해 고민합니다.
+- [여러 기술들을 테스트](https://velog.io/@tilsong/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%A7%80%EC%97%AD-%EC%A1%B0%EA%B1%B4%EC%9C%BC%EB%A1%9C-%EA%B2%80%EC%83%89%ED%95%98%EA%B8%B0-R-Tree-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%A0%81%EC%9A%A9-%EB%B0%8F-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0)해보고, 트레이드오프를 고려합니다.
 
-솔루션 회사에서 개발자로 재직했습니다.
+🐥**동료들과의 이슈 공유와 토론**을 통해 문제를 해결하는 것을 좋아합니다.
+- 구체적인 피드백을 주고받음으로써 더 좋은 개발자가 될 수 있음을 경험했습니다.
+- 동료들이 바쁠 때는 책상 위의 [러버덕과 함께 문제 디버깅](https://velog.io/@tilsong/%EC%98%A4%EB%A6%AC%EC%99%80-%EC%9D%98%EB%85%BC%ED%95%98%EB%8B%A4-%EB%9F%AC%EB%B2%84%EB%8D%95-%EB%94%94%EB%B2%84%EA%B9%85)을 합니다.
 
-<p> <strong>Vue.js, Node.js</strong>를 통해 웹 개발을, </p>
-<p> <strong>Flutter, React Native</strong>를 통해 모바일 앱 개발을, </p>
-<p> <strong>Electron.js</strong>를 통해 데스크탑 앱 개발을 경험했습니다. </p>
-
-<p> 하지만 백엔드 프로그래밍에 대한 갈망이 생겼고, </p>
-퇴사 후 백엔드를 집중적으로 공부했습니다.
-
-# 2022.11 ~ 2023.06 | F-lab Java Backend 과정 수료
-백엔드 공부와 프로젝트를 병행 중에 있습니다.
-
-### 진행 중인 저의 프로젝트를 보고 싶으시다면 ==> [📚 Project: Directors](https://github.com/f-lab-edu/directors)
-
-### 프로젝트 중 경험한 트러블 슈팅을 보고 싶으시다면 ==> [📜 Blog: https://velog.io/@tilsong](https://velog.io/@tilsong)
-
-<br>
-
-## 🛠 Tech Stack 🛠
-
-<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=NodeJs&logoColor=green"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/> 
-
-<br>
-
-[![Tilsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilsong)](https://github.com/tilsong/github-readme-stats)
-
+📌**완벽보다는 완료를** 추구합니다.
+- 큰 작업을 작은 단위로 나누어 하나씩 완료하는 작업 방식을 사용합니다.
 
 <br>
 <div align="center">
