@@ -12,6 +12,12 @@
 - 큰 작업을 작은 단위로 나누어 하나씩 완료하는 작업 방식을 사용합니다.
 
 <br>
+
+---
+
+📔 [개인 공부 노션 링크](http://bit.ly/46xSoum)
+
+<br>
 <div align="center">
 	<a href="https://hits.seeyoufarm.com">
 		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftilsong&count_bg=%233D94C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
