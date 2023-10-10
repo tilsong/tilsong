@@ -15,7 +15,7 @@
 
 ---
 
-📔 [개인 공부 노션 링크](http://bit.ly/46xSoum)
+📔 [개인 공부 노션 링크](https://bit.ly/46uXU1m)
 
 <br>
 <div align="center">
